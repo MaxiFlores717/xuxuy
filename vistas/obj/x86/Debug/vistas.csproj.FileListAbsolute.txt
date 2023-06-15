@@ -1,0 +1,8 @@
+C:\Users\GAMING\Desktop\Leonel\APU 2023\Analisis y Diseño de Sistemas II\xuxuy\cooperativaXuxuy\vistas\bin\Debug\vistas.exe
+C:\Users\GAMING\Desktop\Leonel\APU 2023\Analisis y Diseño de Sistemas II\xuxuy\cooperativaXuxuy\vistas\bin\Debug\vistas.pdb
+C:\Users\GAMING\Desktop\Leonel\APU 2023\Analisis y Diseño de Sistemas II\xuxuy\cooperativaXuxuy\vistas\obj\x86\Debug\vistas.Properties.Resources.resources
+C:\Users\GAMING\Desktop\Leonel\APU 2023\Analisis y Diseño de Sistemas II\xuxuy\cooperativaXuxuy\vistas\obj\x86\Debug\vistas.csproj.GenerateResource.Cache
+C:\Users\GAMING\Desktop\Leonel\APU 2023\Analisis y Diseño de Sistemas II\xuxuy\cooperativaXuxuy\vistas\obj\x86\Debug\vistas.exe
+C:\Users\GAMING\Desktop\Leonel\APU 2023\Analisis y Diseño de Sistemas II\xuxuy\cooperativaXuxuy\vistas\obj\x86\Debug\vistas.pdb
+C:\Users\GAMING\Desktop\Leonel\APU 2023\Analisis y Diseño de Sistemas II\xuxuy\cooperativaXuxuy\vistas\obj\x86\Debug\vistas.FrmPrincipal.resources
+C:\Users\GAMING\Desktop\Leonel\APU 2023\Analisis y Diseño de Sistemas II\xuxuy\cooperativaXuxuy\vistas\obj\x86\Debug\vistas.FrmUsuario.resources
